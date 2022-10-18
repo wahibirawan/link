@@ -73,7 +73,7 @@ $(function(){
     alert("复制失败！请手动复制")
   });
   //*========== title ============*//
-  if(/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {document.title = '';}else{document.title = '孙洋';}
+  if(/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {document.title = '';}else{document.title = 'Wahib Irawan';}
   //*========== 分享 ============*//
   var $iosActionsheet = $('#iosActionsheet');
   var $showIOSActionSheet = $('#showIOSActionSheet');
